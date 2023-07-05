@@ -1,46 +1,44 @@
-{
-    
-      {
-        "id": 1,
-        "image": "image1.jpg",
-        "serviceName": "Door to Door Storage",
-        "features": "We pick up, store & deliver"
-      },
-      {
-        "id": 2,
-        "image": "image2.jpg",
-        "serviceName": "Self Access Storage",
-        "features": "24/7 Access Secured Storage Unit"
-      }
-      {
-        "id": 3,
-        "image": "image3.jpg",
-        "serviceName": "Document Storage",
-        "features": "Store offsite and manage online"
-      },
-      {
-        "id": 4,
-        "image": "image4.jpg",
-        "serviceName": "Marketing Merchandise",
-        "features": "Send swags to us and click for returns"
-      },
-      {
-        "id": 5,
-        "image": "image5.jpg",
-        "serviceName": "Retail and e-Commerce",
-        "features": "We'll receive, store, pick pack and ship"
-      },
-      {
-        "id": 6,
-        "image": "image6.jpg",
-        "serviceName": "Co-Working and Co-Warehousing",
-        "features": "Work, store, operate and ship all in one place"
-      },
-      {
-        "id": 7,
-        "image": "image7.jpg",
-        "serviceName": "Office With Storage",
-        "features": "Office space with storage space"
-      }
+[
+  {
+    "id": 1,
+    "image": "/images/services/door-to-door.svg",
+    "serviceName": "Door to Door Storage",
+    "features": "We pick up, store & deliver"
+  },
+  {
+    "id": 2,
+    "image": "/images/services/self-access.svg",
+    "serviceName": "Self Access Storage",
+    "features": "24/7 Access Secured Storage Unit"
+  },
+  {
+    "id": 3,
+    "image": "/images/services/document-storage.svg",
+    "serviceName": "Document Storage",
+    "features": "Store offsite and manage online"
+  },
+  {
+    "id": 4,
+    "image": "/images/services/marketing-merchandise.svg",
+    "serviceName": "Marketing Merchandise",
+    "features": "Send swags to us and click for returns"
+  },
+  {
+    "id": 5,
+    "image": "/images/services/retail-_-ecommerce.svg",
+    "serviceName": "Retail and e-Commerce",
+    "features": "We'll receive, store, pick pack and ship"
+  },
+  {
+    "id": 6,
+    "image": "/images/services/spacelabs.svg",
+    "serviceName": "Co-Working and Co-Warehousing",
+    "features": "Work, store, operate and ship all in one place"
+  },
+  {
+    "id": 7,
+    "image": "/images/services/office-with-storage.svg",
+    "serviceName": "Office With Storage",
+    "features": "Office space with storage space"
   }
-  
+]
