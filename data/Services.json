@@ -1,0 +1,46 @@
+{
+    
+      {
+        "id": 1,
+        "image": "image1.jpg",
+        "serviceName": "Door to Door Storage",
+        "features": "We pick up, store & deliver"
+      },
+      {
+        "id": 2,
+        "image": "image2.jpg",
+        "serviceName": "Self Access Storage",
+        "features": "24/7 Access Secured Storage Unit"
+      }
+      {
+        "id": 3,
+        "image": "image3.jpg",
+        "serviceName": "Document Storage",
+        "features": "Store offsite and manage online"
+      },
+      {
+        "id": 4,
+        "image": "image4.jpg",
+        "serviceName": "Marketing Merchandise",
+        "features": "Send swags to us and click for returns"
+      },
+      {
+        "id": 5,
+        "image": "image5.jpg",
+        "serviceName": "Retail and e-Commerce",
+        "features": "We'll receive, store, pick pack and ship"
+      },
+      {
+        "id": 6,
+        "image": "image6.jpg",
+        "serviceName": "Co-Working and Co-Warehousing",
+        "features": "Work, store, operate and ship all in one place"
+      },
+      {
+        "id": 7,
+        "image": "image7.jpg",
+        "serviceName": "Office With Storage",
+        "features": "Office space with storage space"
+      }
+  }
+  
